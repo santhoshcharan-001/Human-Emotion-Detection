@@ -2,8 +2,6 @@
 
 This is a complete guide for the Code Implementation of our Project Report.
 
-## Code Implementation
-
 This report is to how to train a model to detect various emotions of a human.
 
 The ipynb to train and test the model is :
